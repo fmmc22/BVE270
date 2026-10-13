@@ -1,0 +1,20 @@
+# 🌿 BVE 270 - Fisiologia Vegetal
+
+## 📅 Avaliações e Cronograma
+- **Prova 1:** [Inserir data][Inserir nota] 
+- **Prova 2:** [Inserir data][Inserir nota] 
+- **Prova 3:** [Inserir data][Inserir nota] 
+- **Prova 4:** [Inserir data][Inserir nota] 
+- **Aulas Práticas:** [Inserir dia da semana]
+
+## 📖 Resumos Teóricos
+1. [Fotossíntese e Pigmentos Cloroplastídicos](#)
+2. [Metabolismo CAM e C4](#)
+3. [Relações Hídricas e Propriedades Vacuolares](#)
+
+## 🔬 Roteiros de Laboratório
+* **Prática 1:** Saponificação com KOH
+* **Prática 2:** [Nome da próxima prática]
+
+## 📎 Materiais e PDFs
+- [Link para o Drive com os materiais de estudo](#)
